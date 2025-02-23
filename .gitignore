@@ -5,3 +5,7 @@ notebooks/.amlignore
 notebooks/.amlignore.amltmp
 outputs/.amlignore
 outputs/.amlignore.amltmp
+notebooks/.ipynb_aml_checkpoints
+notebooks/.ipynb_checkpoints
+.env
+.venv
