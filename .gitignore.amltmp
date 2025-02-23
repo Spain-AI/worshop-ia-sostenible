@@ -1,0 +1,7 @@
+credentials.json
+.amlignore
+.amlignore.amltmp
+notebooks/.amlignore
+notebooks/.amlignore.amltmp
+outputs/.amlignore
+outputs/.amlignore.amltmp
