@@ -9,3 +9,4 @@ notebooks/.ipynb_aml_checkpoints
 notebooks/.ipynb_checkpoints
 .env
 .venv
+.vscode
